@@ -1,6 +1,13 @@
-[](https://img.shields.io/badge/-python3-brightgreen.svg)[](https://img.shields.io/badge/-selenuim-yellowgreen.svg)
+
 # juzimiSpider
+
+
+![](https://img.shields.io/badge/-python3-brightgreen.svg)
+![](https://img.shields.io/badge/-selenuim-yellowgreen.svg)
+
 爬取句子迷中的句子
+
+
 
 
 用Scrapy爬这个网站的时候，发现了一个很有意思的地方。
