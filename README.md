@@ -1,3 +1,4 @@
+[](https://img.shields.io/badge/-python3-brightgreen.svg)[](https://img.shields.io/badge/-selenuim-yellowgreen.svg)
 # juzimiSpider
 爬取句子迷中的句子
 
